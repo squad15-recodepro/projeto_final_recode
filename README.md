@@ -49,10 +49,15 @@ Os dados do ano x do IBGE indicam que o analfabetismo ainda é um problema relev
 
 O analfabetismo cria uma barreira de convivência entre o indivíduo analfabeto e a sociedade como um todo, uma vez que a habilidade de ler e escrever é fundamental para possibilitar a comunicação, o aprendizado e o estímulo ao senso crítico. Portanto o analfabetismo limita o indivíduo de continuar a aprender por conta própria.
 
-## 6. Qual o cronograma das atividades?  
-18/07/2022
-03/10/2022
-15/11/2022
+## 6. Qual o cronograma das atividades? 
+<ul>
+  <li>18/07/2022</li>
+  <li>03/10/2022</li>
+  <li>15/11/2022</li>
+</ul>
+
+
+
 
 ## 7. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega? 
 será distribuido entre nossos integrantes todas as atividades, nem como a construção e desenvolvimento do projeto.
