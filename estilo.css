@@ -10,6 +10,7 @@
 
 
 
+
 body {
     
     background: linear-gradient(
@@ -31,6 +32,7 @@ main{
 a{
     text-decoration: none;
     color: darkgreen;
+    color: white;
 }
 .text-boxx h1{
     width: 100%;
@@ -74,55 +76,351 @@ a{
         width: 300px;
     }
     
-    /**página de cadastro**/
-  .form-cadastro{
-    margin-left: 150px;
-    margin-top: 50px;
-}
 
-    .form-right{
-        float: right;
-        margin-right: 500px;
-        margin-top: -339px;
-    }
-h3{
-    border-bottom: 3px solid darkgreen;
-    width: max-content;
-    text-align: center;
-    margin-left: 235px;
-}
+.container-contato {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
 
-.botao-sinvo{
-    float: right;
-    margin-right: 180px;
 
 }
-.botao-sin{
-    background-color: #0d6efd;
+
+
+.form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 3rem;
+}
+
+.form-header {
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#texto-titulo{
+    margin: 25px 0px 0px 50px;
+}
+
+
+.form-header h1::after {
+    content: '';
+    display: block;
+    width: 5rem;
+    height: 0.3rem;
+    background-color: darkgoldenrod;
+    margin: 0 auto;
     position: absolute;
-    left: 75%;
-    width: 200px;
-    padding: 15px;
-    box-sizing: border-box;
     border-radius: 10px;
-    margin-top: -165px;
+}
+
+.input-group-contato {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+
+.input-box-contato {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.1rem;
+}
+
+.input-box-contato input {
+    margin: 0.6rem 0;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    font-size: 0.8rem;
+}
+
+.input-box-contato input:hover {
+    background-color: #eeeeee75;
+}
+
+.input-box-contato input:focus-visible {
+    outline: 1px solid tomato;
+}
+
+.input-box-contato label,
+.gender-title h6 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #000000c0;
+}
+
+.input-box-contato input::placeholder {
+    color: #000000be;
+}
+
+.gender-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.62rem;
+    padding: 0 .5rem;
+}
+
+.gender-input {
+    display: flex;
+    align-items: center;
+}
+
+.gender-input input {
+    margin-right: 0.35rem;
+}
+
+.gender-input label {
+    font-size: 0.81rem;
+    font-weight: 600;
+    color: #000000c0;
+}
+
+.continue-button button {
+    width: 100%;
+    margin-top: 2.5rem;
+    border: none;
+    background-color: darkgoldenrod;
+    padding: 0.62rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.continue-button button:hover {
+    background-color: green;
     
 }
 
-.botao-vol{
-    background-color: #0d6efd;
-    position: absolute;
-    left: 75%;
-    width: 200px;
-    padding: 15px;
-    box-sizing: border-box;
-    border-radius: 10px;
-    margin-top: -200px;
+.continue-button button a {
+    text-decoration: none;
+    font-size: 0.93rem;
+    font-weight: 500;
+    color: purple;
 }
-/**fim**/
+
+
+#container-login{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+#email-login{
+    
+    width: 80%;
+}
+
+#senha-login{
+    width: 50%;
+}
+
+#botao-login{
+    width: 30%;
+}
+
+
+
+
+
+/* INICIO CADASTRAR*/
+
+.container-contato {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+
+
+}
+
+
+.form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 3rem;
+}
+
+.form-header {
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#texto-titulo{
+    margin: 25px 0px 0px 50px;
+}
+
+
+.form-header h1::after {
+    content: '';
+    display: block;
+    width: 5rem;
+    height: 0.3rem;
+    background-color: darkgreen;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.input-group-contato {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+
+.input-box-contato {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.1rem;
+}
+
+.input-box-contato input {
+    margin: 0.6rem 0;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    font-size: 0.8rem;
+}
+
+.input-box-contato input:hover {
+    background-color: #eeeeee75;
+}
+
+.input-box-contato input:focus-visible {
+    outline: 1px solid tomato;
+}
+
+.input-box-contato label, h6 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #000000c0;
+}
+
+.input-box-contato input::placeholder {
+    color: #000000be;
+}
+
+
+.botao-sinvo{
+    display: flex;
+    flex-wrap: wrap;
+   
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    
+    
+}
+
+.botao-vol button {
+    width: 100%;
+    margin-top: 2.5rem;
+    border: none;
+    background-color: darkgreen;
+    padding: 0.62rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botao-sin button {
+    width: 100%;
+    margin-top: 2.5rem;
+    border: none;
+    background-color: darkgreen;
+    padding: 0.62rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botao-vol button:hover {
+    background-color: green;
+    
+}
+
+.botao-sin button:hover {
+    background-color: green;
+    
+}
+
+.botao-vol button a {
+    text-decoration: none;
+    font-size: 0.93rem;
+    font-weight: 500;
+    color: purple;
+}
+
+.botao-sin button a {
+    text-decoration: none;
+    font-size: 0.93rem;
+    font-weight: 500;
+    color: purple;
+}
+
+
+#botao-1{
+    
+    width: 50%;
+   
+    border-radius: 20px;
+    background-color: darkgreen;
+}
+
+#botao-2{
+    width: 50%;
+    
+    border-radius: 20px;
+    background-color: darkgreen;
+    
+}
+
+#container-login{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+
+
+
+/* FIM ABA CADASTRAR */
+
+
+
+
+
+
+
+
+
+/*----------------------*/
+
+
+
 
 .navbar-brand{
-    margin-left: 80px;
+    margin-left: 40px;
 }
 
 #nav-principal{
@@ -148,7 +446,14 @@ nav.navbar-transparente{
 
 .navbar-toggler-icon{
     border: white;
+    
+
 }
+
+button .navbar-toggler.hamburger{
+   margin-left: 40px;
+}
+
 
 .divisor{
     width: 1px;
@@ -230,12 +535,6 @@ nav.navbar-transparente{
 
 /* START FOOTER*/
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-}
 
 footer{
     background-color: darkgreen;
@@ -340,6 +639,12 @@ footer{
 /* END FOOTER*/
 
 
+
+
+
+
+
+
 /* FOOTER*/
 
 @media (max-width: 800px) {
@@ -357,19 +662,24 @@ footer{
 
 @media (max-width:1000px) {
 
-    html {
-    
-        height: 100%;
-    
+    .navbar-brand{
+        margin-left: 50px;
     }
+
+    .navbar-toggler{
+        margin-right: 25px;
+    }
+
     main{
         flex-direction: column;
     }
+
     .text-box,
     .img-box{
         width: 100%;
         margin-top: 35px;
         text-align: center;
+        margin-left: auto;
         justify-content: center;
     }
     .container-box-1{
@@ -385,3 +695,37 @@ footer{
 
 }
 
+@media screen and (max-width: 1330px) {
+    .form-cadastro {
+        display: none;
+    }
+    .container {
+        width: 50%;
+    }
+    .form {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1064px) {
+    .form-cadastro {
+        width: 90%;
+        height: auto;
+    }
+    .form-cadastro {
+        flex-direction: column;
+        z-index: 5;
+        padding-right: 5rem;
+        max-height: 10rem;
+        overflow-y: scroll;
+        flex-wrap: nowrap;
+    }
+
+   
+}
+
+@media screen and (max-width:600px) {
+    #container-login{
+        width: 10   0%;
+    }
+}
