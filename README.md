@@ -1,6 +1,5 @@
-# projeto_final_recode
 
-<h1 >Escopo do Projeto </h1>  
+<h1 > Escopo do Projeto </h1>  
 
 ## Squad nº 015
 
