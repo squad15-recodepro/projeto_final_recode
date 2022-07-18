@@ -42,7 +42,7 @@ Pessoas maiores de 18 anos residentes de qualquer zona rural e que não tenham c
 
 ## 4. O problema foi escolhido com base em quais dados oficiais? Como vocês identificaram que esse realmente é um problema para o público-alvo? Indique as referências usadas, justificando a sua escolha. 
 
-Os dados do ano x do IBGE indicam que o analfabetismo ainda é um problema relevante na realidade brasileira. Nos espaços rurais, estima-se que a taxa de analfabetismo ainda seja ligeiramente maior, provavelmente devido à evasão escolar nos primeiros anos de ensino, motivada pela necessidade de ajuda laboral nos núcleos familiares, pelo difícil acesso a centros de ensino, entre outros fatores.
+De acordo com os últimos dados coletados pela PNAD, em 2017, o analfabetismo ainda é um problema relevante na realidade brasileira. Nos espaços rurais, estima-se que a taxa de analfabetismo ainda seja ligeiramente maior, provavelmente devido à evasão escolar nos primeiros anos de ensino, motivada pela necessidade de ajuda laboral nos núcleos familiares, pelo difícil acesso a centros de ensino, entre outros fatores.
 
 ## 5. Como esse problema afeta o público-alvo? 
 
