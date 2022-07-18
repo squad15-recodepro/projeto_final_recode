@@ -59,7 +59,8 @@ O analfabetismo cria uma barreira de convivência entre o indivíduo analfabeto 
 
 
 ## 7. Como será feita a distribuição das atividades entre os integrantes do squad para essa primeira entrega? 
-será distribuido entre nossos integrantes todas as atividades, nem como a construção e desenvolvimento do projeto.
+será distribuido entre nossos integrantes todas as atividades bem como a construção e desenvolvimento do projeto, de forma igualitária, visando
+o trabalho em grupo.
 
 ## 8. Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento das atividades?  Ex: Trello, Asana, Jira, Monday  
 
