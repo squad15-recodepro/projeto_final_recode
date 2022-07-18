@@ -41,11 +41,11 @@ A alta porcentagem de analfabetismo entre adultos em áreas rurais.
 
 Pessoas maiores de 18 anos residentes de qualquer zona rural e que não tenham concluído quaisquer uma das fases de alfabetização (pré-silábico, silábico, silábico-alfabético e alfabético). Sem restrição de escolaridade.
 
-##4. O problema foi escolhido com base em quais dados oficiais? Como vocês identificaram que esse realmente é um problema para o público-alvo? Indique as referências usadas, justificando a sua escolha. 
+## 4. O problema foi escolhido com base em quais dados oficiais? Como vocês identificaram que esse realmente é um problema para o público-alvo? Indique as referências usadas, justificando a sua escolha. 
 
 Os dados do ano x do IBGE indicam que o analfabetismo ainda é um problema relevante na realidade brasileira. Nos espaços rurais, estima-se que a taxa de analfabetismo ainda seja ligeiramente maior, provavelmente devido à evasão escolar nos primeiros anos de ensino, motivada pela necessidade de ajuda laboral nos núcleos familiares, pelo difícil acesso a centros de ensino, entre outros fatores.
 
-##5. Como esse problema afeta o público-alvo? 
+## 5. Como esse problema afeta o público-alvo? 
 
 O analfabetismo cria uma barreira de convivência entre o indivíduo analfabeto e a sociedade como um todo, uma vez que a habilidade de ler e escrever é fundamental para possibilitar a comunicação, o aprendizado e o estímulo ao senso crítico. Portanto o analfabetismo limita o indivíduo de continuar a aprender por conta própria.
 
