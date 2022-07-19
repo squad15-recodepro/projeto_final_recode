@@ -685,13 +685,22 @@ footer{
     }
     .container-box-1{
         top: 35%;
-        
+        width: 300px;
+        left: 50%;
     }
 
     .container-box-2{
-
+        left: 50%;
         top: 55%;
+        width: 300px;
+    }
 
+    .btn {
+        width: 300px;
+    }
+
+    .btn-index {
+        font-size: 1.5rem;
     }
 
 }
